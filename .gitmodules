@@ -1,0 +1,6 @@
+[submodule "externals/git_test_submodule_1"]
+	path = externals/git_test_submodule_1
+	url = git@github.com:xianjiaodahe91/git_test_submodule_1.git
+[submodule "externals/siyang"]
+	path = externals/siyang
+	url = git@git.coding.net:xianjiaodahe91/siyang.git
