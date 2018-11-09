@@ -4,3 +4,6 @@
 [submodule "externals/siyang"]
 	path = externals/siyang
 	url = git@git.coding.net:xianjiaodahe91/siyang.git
+[submodule "externals/git_test_submodule_2"]
+	path = externals/git_test_submodule_2
+	url = git@github.com:xianjiaodahe91/git_test_submodule_2.git
